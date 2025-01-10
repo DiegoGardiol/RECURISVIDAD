@@ -7,7 +7,7 @@ public class metodos {
     }
 
     public void ejer2(){
-        
+
     }
 
     public void ejer3(){
