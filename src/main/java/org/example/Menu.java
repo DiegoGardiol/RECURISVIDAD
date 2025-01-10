@@ -7,7 +7,7 @@ public class Menu {
     public void desplegable(){
         Scanner leer = new Scanner(System.in);
 
-        System.out.flush(); //Limpiar consola
+        System.out.flush();
 
         System.out.println("*** Batería de ejercicios sobre recursividad ***");
         System.out.println("Selecciona a continuación el modo que quieras ejecutar");
