@@ -21,7 +21,7 @@ public class Menu {
 
         int opcion = leer.nextInt();
 
-        if (opcion < 1){
+        if (opcion < 1 ){
             System.out.println("*** ERROR INTENTALO DEVUELTA OPCION INVALIDA***");
             Menu EJERCICIO = new Menu();
             EJERCICIO.desplegable();
